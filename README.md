@@ -51,7 +51,9 @@ streamlit run "ElasticMind.py"
 📁 Folder Structure
 
 ├── ElasticMind.py      # Streamlit app (ElasticMind UI)
+
 ├── requirements.txt               # All dependencies
+
 └── README.md                      # This file
 
 📊 Example Use Cases
@@ -69,16 +71,23 @@ streamlit run "ElasticMind.py"
 🧠 How It Works
 
 Embed Data
+
 Upload a file → Embed rows/lines via Ollama (mxbai-embed-large) → Store as dense_vector in Elasticsearch
+
 Ask a Question
+
 Input a natural language question → Embed → Match top documents via cosine similarity
+
 Answer Generation (RAG)
+
 Top documents passed as context → Mistral generates a response
 
 🛣️ Future Improvements
 
  Hybrid (keyword + vector) search
+ 
  Chat history & memory
+ 
  File format support for PDFs, DOCX
 
  🙏 Acknowledgements
@@ -86,9 +95,13 @@ Top documents passed as context → Mistral generates a response
 Thanks to:
 
 Ollama
+
 Elasticsearch
+
 Langchain
+
 Streamlit
 
 author: souvik das
+
 last updated: 12 June 2025
