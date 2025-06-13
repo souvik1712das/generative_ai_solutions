@@ -1,10 +1,10 @@
 # 🧠 ElasticMind
 ElasticMind is a Local AI Assistant that blends Elasticsearch vector search, local LLMs (via Ollama), and RAG (Retrieval-Augmented Generation) to semantically search and answer questions from your uploaded files — all locally, with full data control.
 
-🧩 Tagline
+🧩 **Tagline**
 ElasticMind – Where Questions Meet Context — with RAG & Local LLMs
 
-🔥 Key Features
+🔥 **Key Features**
 
 ✅ Upload CSV or TXT files and embed their contents semantically
 
@@ -17,11 +17,11 @@ ElasticMind – Where Questions Meet Context — with RAG & Local LLMs
 📋 Easily switch between or create new indices interactively in the UI
 
 **Demo**
-[ElasticMind.webm](https://github.com/user-attachments/assets/eca9ab94-dd4c-431a-852b-44300405d477)
+[ElasticMind.webm](https://github.com/user-attachments/assets/c9ae7678-f78a-4568-815d-b1c709407a8b)
 
-![image](https://github.com/user-attachments/assets/7cbc37f0-be0b-49af-99dc-4ecb5c65fef6)
+![image](https://github.com/user-attachments/assets/a677ae57-250f-43de-8522-a44a9e1299ab)
 
-⚙️ Installation Requirements
+⚙️ **Installation Requirements**
 
 📦 1. Install Python Environment
 
@@ -48,12 +48,12 @@ ollama run mxbai-embed-large
 
 Extract and run: bin/kibana
 
-🚀 How to Run the App
+🚀 **How to Run the App**
 
 streamlit run "ElasticMind.py"
 
 
-📁 Folder Structure
+📁 **Folder Structure**
 
 ├── ElasticMind.py      # Streamlit app (ElasticMind UI)
 
@@ -61,7 +61,7 @@ streamlit run "ElasticMind.py"
 
 └── README.md                      # This file
 
-📊 Example Use Cases
+📊 **Example Use Cases**
 
 🔁 Fintech logs: Query transaction failures, suspicious patterns from bank API logs
 
@@ -75,7 +75,7 @@ streamlit run "ElasticMind.py"
 
 🧾 Product manuals: Find relevant sections of documentation with one-line queries
 
-🧠 How It Works
+🧠 **How It Works**
 
 Embed Data
 
@@ -91,7 +91,7 @@ Top documents passed as context → Mistral generates a response
 
 ⚙️ **Note**: _The solution is currently in its very early stage and still evolving. There's plenty of scope for improving response accuracy, query interpretation, and overall robustness. Feedback and contributions are welcome!_
 
-🛣️ Future Improvements
+🛣️ **Future Improvements**
 
  Query interpretation and response accuracy
 
@@ -101,7 +101,7 @@ Top documents passed as context → Mistral generates a response
  
  File format support for PDFs, DOCX
 
- 🙏 Acknowledgements
+ 🙏 **Acknowledgements**
 
 Thanks to:
 
@@ -115,7 +115,7 @@ Streamlit
 
 Also to ChatGPT and Gemini for continuous support
 
-Author: Souvik Das | Last updated: 13 June 2025
+**Author**: Souvik Das | **Last updated**: 13 June 2025 | **LinkedIn**: https://www.linkedin.com/in/souvik-das-6ba904a2/
 
 # EDITS
 
