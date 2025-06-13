@@ -60,6 +60,8 @@ streamlit run "ElasticMind.py"
 
 🔁 Fintech logs: Query transaction failures, suspicious patterns from bank API logs
 
+📜 Clinical Query Assistant for Medical Investigators: Helps non-technical clinical experts get insights from massive datasets via chat.
+
 📄 Policy & SOP documents: Ask natural questions over operational or compliance docs
 
 📜 Audit logs: Semantic search over error trails or historical records
