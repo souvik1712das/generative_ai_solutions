@@ -102,6 +102,12 @@ Langchain
 
 Streamlit
 
-author: souvik das
+Also to ChatGPT and Gemini for continuous support
 
-last updated: 12 June 2025
+Author: Souvik Das
+
+Last updated: 13 June 2025
+
+# EDITS
+
+13062025: Content has been updated.
