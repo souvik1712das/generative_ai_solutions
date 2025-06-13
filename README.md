@@ -19,7 +19,10 @@ ElasticMind – Where Questions Meet Context — with RAG & Local LLMs
 **Demo**
 [ElasticMind.webm](https://github.com/user-attachments/assets/c9ae7678-f78a-4568-815d-b1c709407a8b)
 
-![image](https://github.com/user-attachments/assets/a677ae57-250f-43de-8522-a44a9e1299ab)
+**A few trials**
+
+![image](https://github.com/user-attachments/assets/a677ae57-250f-43de-8522-a44a9e1299ab) ![image](https://github.com/user-attachments/assets/53520564-4324-416f-a134-d6dec99e77ea)
+
 
 ⚙️ **Installation Requirements**
 
@@ -74,6 +77,10 @@ streamlit run "ElasticMind.py"
 🧑‍💻 Support tickets: Summarize and retrieve similar tickets from past support queries
 
 🧾 Product manuals: Find relevant sections of documentation with one-line queries
+
+🧾 Custom document search engine
+
+
 
 🧠 **How It Works**
 
