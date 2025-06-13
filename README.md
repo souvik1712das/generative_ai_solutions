@@ -16,6 +16,11 @@ ElasticMind – Where Questions Meet Context — with RAG & Local LLMs
 
 📋 Easily switch between or create new indices interactively in the UI
 
+**Demo**
+[ElasticMind.webm](https://github.com/user-attachments/assets/eca9ab94-dd4c-431a-852b-44300405d477)
+
+![image](https://github.com/user-attachments/assets/7cbc37f0-be0b-49af-99dc-4ecb5c65fef6)
+
 ⚙️ Installation Requirements
 
 📦 1. Install Python Environment
