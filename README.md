@@ -16,7 +16,7 @@ ElasticMind – Where Questions Meet Context — with RAG & Local LLMs
 
 📋 Easily switch between or create new indices interactively in the UI
 
-**Demo**
+****Demo****
 [ElasticMind.webm](https://github.com/user-attachments/assets/c9ae7678-f78a-4568-815d-b1c709407a8b)
 
 **A few Trials**
