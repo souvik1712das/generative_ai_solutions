@@ -1,4 +1,4 @@
-🧠 ElasticMind
+# 🧠 ElasticMind
 ElasticMind is a Local AI Assistant that blends Elasticsearch vector search, local LLMs (via Ollama), and RAG (Retrieval-Augmented Generation) to semantically search and answer questions from your uploaded files — all locally, with full data control.
 
 🧩 Tagline
@@ -104,9 +104,7 @@ Streamlit
 
 Also to ChatGPT and Gemini for continuous support
 
-Author: Souvik Das
-
-Last updated: 13 June 2025
+Author: Souvik Das | Last updated: 13 June 2025
 
 # EDITS
 
