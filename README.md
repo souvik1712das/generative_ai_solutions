@@ -68,8 +68,6 @@ streamlit run "ElasticMind.py"
 
 📊 **Example Use Cases**
 
-🔁 Fintech logs: Query transaction failures, suspicious patterns from bank API logs
-
 📜 Clinical Query Assistant for Medical Investigators: Helps non-technical clinical experts get insights from massive datasets via chat.
 
 📄 Policy & SOP documents: Ask natural questions over operational or compliance docs
@@ -81,6 +79,8 @@ streamlit run "ElasticMind.py"
 🧾 Product manuals: Find relevant sections of documentation with one-line queries
 
 🧾 Custom document search engine
+
+🔁 Fintech logs: Query transaction failures, suspicious patterns from bank API logs
 
 
 
@@ -103,6 +103,8 @@ Top documents passed as context → Mistral generates a response
 🛣️ **Future Improvements**
 
  Query interpretation and response accuracy
+
+ Indexing rows as a textual narrative for a tabular dataset
 
  Hybrid (keyword + vector) search
  
