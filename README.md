@@ -84,7 +84,11 @@ Answer Generation (RAG)
 
 Top documents passed as context → Mistral generates a response
 
+⚙️ Note: The solution is currently in its very early stage and still evolving. There's plenty of scope for improving response accuracy, query interpretation, and overall robustness. Feedback and contributions are welcome!
+
 🛣️ Future Improvements
+
+ Query interpretation and response accuracy
 
  Hybrid (keyword + vector) search
  
