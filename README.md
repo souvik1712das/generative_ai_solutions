@@ -19,9 +19,11 @@ ElasticMind – Where Questions Meet Context — with RAG & Local LLMs
 **Demo**
 [ElasticMind.webm](https://github.com/user-attachments/assets/c9ae7678-f78a-4568-815d-b1c709407a8b)
 
-**A few trials**
+**A few Trials**
 
-![image](https://github.com/user-attachments/assets/a677ae57-250f-43de-8522-a44a9e1299ab) ![image](https://github.com/user-attachments/assets/53520564-4324-416f-a134-d6dec99e77ea)
+![image](https://github.com/user-attachments/assets/a677ae57-250f-43de-8522-a44a9e1299ab) 
+
+![image](https://github.com/user-attachments/assets/53520564-4324-416f-a134-d6dec99e77ea)
 
 
 ⚙️ **Installation Requirements**
